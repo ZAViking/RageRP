@@ -1,1 +1,4 @@
-<template></template>
+<template>
+    <nav />
+    Header
+</template>
